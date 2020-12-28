@@ -1,137 +1,25 @@
-region,infection_reason,status
-Nouvelle-Aquitaine,contact with patient,released
-Nouvelle-Aquitaine,visit to Italy,hospital
-Nouvelle-Aquitaine,contact with patient,hospital
-Nouvelle-Aquitaine,visit to Italy,released
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,home isolation
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Occitanie,contact with person who visited Italy,home isolation
-Occitanie,contact with person who visited Italy,home isolation
-Occitanie,contact with person who visited Italy,home isolation
-Occitanie,visit to Egypt,hospital
-Occitanie,visit to Italy,hospital
-Occitanie,visit to Italy,home isolation
-Occitanie,visit to Italy,released
-Occitanie,visit to Italy,home isolation
-Occitanie,visit to Italy,home isolation
-Occitanie,visit to Italy,home isolation
-Occitanie,unknown,hospital
-Occitanie,unknown,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,unknown,hospital
-Occitanie,unknown,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,contact with patient,hospital
-Occitanie,contact with patient,hospital
-Occitanie,visit to Oise,hospital
-Hauts-de-France,contact with patient,deceased
-Normandie,visit to Germany,home isolation
-Normandie,contact with patient,home isolation
-Normandie,visit to Mulhouse religious gathering,home isolation
-Normandie,visit to Mulhouse religious gathering,home isolation
-Normandie,visit to Mulhouse religious gathering,hospital
-Pays-de-la-Loire,contact with patient,hospital
-Pays-de-la-Loire,contact with patient,hospital
-Pays-de-la-Loire,contact with patient,hospital
-Pays-de-la-Loire,contact with patient,hospital
-Pays-de-la-Loire,visit to Italy,hospital
-Bourgogne-Franche-Comté,visit to Italy,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bourgogne-Franche-Comté,visit to Mulhouse religious gathering,hospital
-Bretagne,visit to Egypt,hospital
-Bretagne,visit to Egypt,hospital
-Bretagne,visit to Oise,hospital
-Bretagne,visit to Oise,hospital
-Bretagne,"Visit to Venise, Italy",hospital
-Bretagne,"Visit to Venise, Italy",hospital
-Bretagne,contact with patient in Auray,home isolation
-Nouvelle-Aquitaine,visit to Italy,hospital
-Nouvelle-Aquitaine,visit to Italy,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,visit to Mulhouse,hospital
-Occitanie,visit to Egypt,hospital
-Occitanie,visit to Egypt,home isolation
-Occitanie,visit to Egypt,home isolation
-Occitanie,visit to Egypt,home isolation
-PACA,visit to Milan,hospital
-PACA,Italian,hospital
-PACA,visit to Mulhouse,hospital
-PACA,visit to Lombardy,hospital
-PACA,visit to Mulhouse,hospital
-PACA,parishioner,hospital
-PACA,parishioner,hospital
-PACA,parishioner,hospital
-PACA,parishioner,hospital
-PACA,parishioner,hospital
-Hauts-de-France,visit to Italy,hospital
-Hauts-de-France,Creil military base ?,home isolation
-Normandie,contact with patient,home isolation
-Normandie,contact with patient,home isolation
-Normandie,contact with patient,home isolation
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Nouvelle-Aquitaine,visit to Mulhouse religious gathering,hospital
-Occitanie,visit to Alsace,hospital
-Centre-Val de Loire,visit to Mulhouse,hospital
-Centre-Val de Loire,visit to Milan,hospital
-Auvergne-Rhône-Alpes,contact with patient,hospital
-Auvergne-Rhône-Alpes,contact with patient,hospital
-Auvergne-Rhône-Alpes,contact with patient,hospital
-Auvergne-Rhône-Alpes,contact with patient,hospital
-Auvergne-Rhône-Alpes,contact with patient,hospital
-Auvergne-Rhône-Alpes,visit in Lombardy,hospital
-Auvergne-Rhône-Alpes,visit in Lombardy,hospital
-Nouvelle-Aquitaine,contact with patient,home isolation
-Nouvelle-Aquitaine,contact with patient,home isolation
-Nouvelle-Aquitaine,contact with patient,home isolation
-Nouvelle-Aquitaine,contact with patient,home isolation
-Nouvelle-Aquitaine,visit to Egypt,home isolation
-Nouvelle-Aquitaine,visit to Bretagne,home isolation
-Grand-Est,Visit in Italy,home isolation
-Grand-Est,In contact with someone contamitaminated in Oise,hospital
-Grand-Est,In contact with someone contamitaminated in Oise,hospital
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,deceased
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,Religious Meeting in Mulhouse,hospital
-Grand-Est,Religious Meeting in Mulhouse,home isolation
-Grand-Est,work in a medical environment ,home isolation
-Grand-Est,Visit family in Oise,hospital
-Nouvelle-Aquitaine,visit to Egypt,home isolation
-Nouvelle-Aquitaine,visit to Egypt,home isolation
-Nouvelle-Aquitaine,visit to Egypt,home isolation
-Nouvelle-Aquitaine,visit to Egypt,hospital
+region,num_region,reason,num_reason,status,num
+Bourgogne-Franche-Comté,28.0,visit to Mulhouse religious gathering,37,hospital,92.0
+Occitanie,28.0,contact with patient,22,home isolation,39.0
+Nouvelle-Aquitaine,23.0,visit to Egypt,17,released,3.0
+Grand-Est,15.0,visit to Italy,13,deceased,2.0
+PACA,10.0,Religious Meeting in Mulhouse,10,,
+Normandie,8.0,parishioner,5,,
+Bretagne,7.0,unknown,4,,
+Auvergne-Rhône-Alpes,7.0,visit to Mulhouse,4,,
+Pays-de-la-Loire,5.0,visit to Oise,3,,
+Hauts-de-France,3.0,contact with person who visited Italy,3,,
+Centre-Val de Loire,2.0,In contact with someone contamitaminated in Oise,2,,
+,,visit to Milan,2,,
+,,visit in Lombardy,2,,
+,,"Visit to Venise, Italy",2,,
+,,Italian,1,,
+,,visit to Lombardy,1,,
+,,contact with patient in Auray,1,,
+,,visit to Germany,1,,
+,,visit to Bretagne,1,,
+,,Visit family in Oise,1,,
+,,visit to Alsace,1,,
+,,work in a medical environment ,1,,
+,,Creil military base ?,1,,
+,,Visit in Italy,1,,
